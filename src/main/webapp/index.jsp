@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2025</h1>
+            <h1>wenter Collection 2025</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -845,7 +845,7 @@
         <div class="categories">
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
-                <h3>Smartphones</h3>
+                <h3>Smartphonesmobiles</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
@@ -855,7 +855,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-tshirt"></i></div>
-                <h3>Clothing</h3>
+                <h3>Clothingbattalu</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
@@ -865,7 +865,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
-                <h3>Footwear</h3>
+                <h3>Footwearchappal</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
@@ -1083,7 +1083,7 @@
                     </div>
                 </div>
                 <div class="footer-col">
-                    <h3>Shop</h3>
+                    <h3>Shopsele</h3>
                     <ul>
                         <li><a href="#">All Products</a></li>
                         <li><a href="#">Featured Items</a></li>
